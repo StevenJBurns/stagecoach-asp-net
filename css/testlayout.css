@@ -1,0 +1,31 @@
+* {margin: 0; padding: 0; font-family: Calibri;}
+
+body {text-align: center;}
+
+footer, nav {height: 2em;}
+
+header
+{
+background: #FF7700;
+text-align: left;
+}
+
+nav
+{
+height: 2em;
+background: #000000;
+}
+
+img {display: block;}
+
+li {display: inline-block;  margin: 4px; }
+
+#divLayout
+{
+min-height: 100%;
+background: #C7C7C7;
+}
+
+footer {background: #000000;}
+
+
