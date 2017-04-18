@@ -53,7 +53,7 @@ dd {color: #000000; padding-left: 16px; background: #AAAAAA; margin-bottom: 8px;
 
 .ContactContainer {text-align: center}
 .ulContact {width: 192px;  padding: 0; margin: 16px; color: #FFFFFF; background: #7F7F7F;  border-radius: 4px; display: inline-block}
-    .ulContact > li:first-child {background: #333333}
+.ulContact > li:first-child {background: #333333}
 
 p {padding: 24px; color: #000000; text-align: justify; font-weight: normal}
 
