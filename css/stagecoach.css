@@ -51,7 +51,9 @@ dl {}
 dt {color: #000000; font-weight: bold; background: #999999; margin-top: 12px; padding-left: 8px; border-radius: 4px 4px 0 0; cursor: help}
 dd {color: #000000; padding-left: 16px; background: #AAAAAA; margin-bottom: 8px; border-radius: 0 0 4px 4px; cursor: default}
 
+.ContactContainer {text-align: center}
 .ulContact {width: 192px;  padding: 4px; margin: 0 4px; color: #FFFFFF; background: #7F7F7F;  border-radius: 4px; display: inline-block}
+    .ulContact > li:first-child {background: #333333}
 
 p {padding: 24px; color: #000000; text-align: justify; font-weight: normal}
 
